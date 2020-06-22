@@ -1,0 +1,27 @@
+{
+  "name": "@enso-ui/laravel-validation",
+  "version": "1.0.0",
+  "description": "Laravel Validation",
+  "main": "src/Errors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/@enso-ui/laravel-validation.git"
+  },
+  "keywords": [
+    "laravel-validation",
+    "vue"
+  ],
+  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/@enso-ui/laravel-validation/issues"
+  },
+  "homepage": "https://github.com/@enso-ui/laravel-validation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.5.16"
+  }
+}
