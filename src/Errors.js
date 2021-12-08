@@ -1,5 +1,3 @@
-import Vue from 'vue';
-
 class Errors {
     constructor() {
         this.errors = {};
@@ -11,7 +9,7 @@ class Errors {
 
     clear(field) {
         if (this.has(field)) {
-            Vue.delete(this.errors, field);
+            delete this.errors[field];
         }
     }
 

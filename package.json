@@ -21,7 +21,5 @@
   },
   "homepage": "https://github.com/@enso-ui/laravel-validation#readme",
   "dependencies": {},
-  "devDependencies": {
-    "vue": "^3.0"
-  }
+  "devDependencies": {}
 }
