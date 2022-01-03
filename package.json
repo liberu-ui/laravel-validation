@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/laravel-validation",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Laravel Validation",
   "main": "src/Errors.js",
   "scripts": {
