@@ -3,6 +3,10 @@ class Errors {
         this.errors = {};
     }
 
+    all() {
+        return this.errors;
+    }
+
     any() {
         return Object.keys(this.errors).length > 0;
     }
