@@ -22,7 +22,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 

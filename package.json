@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/laravel-validation",
+  "name": "@liberu-ui/laravel-validation",
   "version": "2.0.6",
   "description": "Laravel Validation",
   "main": "src/Errors.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@cgdsoftware/laravel-validation.git"
+    "url": "git+https://github.com/@liberu-ui/laravel-validation.git"
   },
   "keywords": [
     "laravel-validation",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/@cgdsoftware/laravel-validation/issues"
+    "url": "https://github.com/@liberu-ui/laravel-validation/issues"
   },
-  "homepage": "https://github.com/@cgdsoftware/laravel-validation#readme",
+  "homepage": "https://github.com/@liberu-ui/laravel-validation#readme",
   "dependencies": {},
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.0-beta.6",
