@@ -1,10 +1,10 @@
 # Laravel Validation
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/laravel-validation.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/laravel-validation.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/laravel-validation.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/laravel-validation.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/laravel-validation.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/laravel-validation.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/laravel-validation.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/laravel-validation.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/laravel-validation.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/laravel-validation.svg) 
 
 Quickview
 
