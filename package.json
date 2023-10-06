@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/laravel-validation",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Laravel Validation",
   "main": "src/Errors.js",
   "scripts": {
