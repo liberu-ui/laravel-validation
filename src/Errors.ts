@@ -1,4 +1,3 @@
-```typescript
 class Errors {
   /**
    * Holds the error messages for each field.
@@ -84,4 +83,3 @@ class Errors {
 }
 
 export default Errors;
-```
