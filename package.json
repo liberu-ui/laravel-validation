@@ -2,7 +2,7 @@
   "name": "@liberu-ui/laravel-validation",
   "version": "2.0.10",
   "description": "Laravel Validation",
-  "main": "src/Errors.js",
+  "main": "src/Errors.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
